@@ -14,9 +14,14 @@ Park Explorer is a native iOS app for discovering sites managed by the U.S. Nati
 - Adaptive SwiftUI interface for iPhone and iPad
 - VoiceOver labels and Dynamic Type-friendly system typography
 
-## Demo
+## Screenshots
 
-A current Park Explorer demo will be added soon.
+<p align="center">
+  <img src="docs/screenshots/park-list.png" alt="Park Explorer showing parks in California" width="320">
+  <img src="docs/screenshots/park-detail.png" alt="Alcatraz Island details, photography, and map" width="320">
+</p>
+
+A video demonstration will be added later.
 
 ## Requirements
 
