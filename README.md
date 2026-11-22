@@ -21,8 +21,6 @@ Park Explorer is a native iOS app for discovering sites managed by the U.S. Nati
   <img src="docs/screenshots/park-detail.png" alt="Alcatraz Island details, photography, and map" width="320">
 </p>
 
-A video demonstration will be added later.
-
 ## Requirements
 
 - iOS 17.0 or later
